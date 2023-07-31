@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/owizzo/.github/main/img/owizzo-logo.png" width="850" height="850" alt="owizzo" />
+  <img src="https://raw.githubusercontent.com/owizzo/.github/main/img/owizzo-logo.png" width="425" height="425" alt="owizzo" />
 </p>
 
 🚀 Welcome to owizzo! 🚀
